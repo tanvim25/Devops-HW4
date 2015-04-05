@@ -1,0 +1,6 @@
+Queues/node_modules/
+Queues/img/*
+Queues/uploads
+infrastructure/node_modules/
+deploy/blue.git
+deploy/green.git
