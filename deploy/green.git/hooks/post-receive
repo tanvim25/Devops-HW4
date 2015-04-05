@@ -1,0 +1,4 @@
+#!/bin/sh
+GIT_WORK_TREE=../../deploy/green-www/ git checkout -f
+cd ../../deploy/green-www/
+npm install
